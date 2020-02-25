@@ -15,7 +15,9 @@ namespace Classes
     {
         static void Main(string[] args)
         {
-            
+            var person = new Person();
+            person.Name = "John";
+            person.Introduce("Mosh");
         }
     }
 }

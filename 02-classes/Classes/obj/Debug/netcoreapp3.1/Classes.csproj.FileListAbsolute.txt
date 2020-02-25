@@ -1,0 +1,11 @@
+C:\CareerDevs\github\c++\mosh-02-intermediate\02-classes\Classes\bin\Debug\netcoreapp3.1\Classes.exe
+C:\CareerDevs\github\c++\mosh-02-intermediate\02-classes\Classes\bin\Debug\netcoreapp3.1\Classes.deps.json
+C:\CareerDevs\github\c++\mosh-02-intermediate\02-classes\Classes\bin\Debug\netcoreapp3.1\Classes.runtimeconfig.json
+C:\CareerDevs\github\c++\mosh-02-intermediate\02-classes\Classes\bin\Debug\netcoreapp3.1\Classes.runtimeconfig.dev.json
+C:\CareerDevs\github\c++\mosh-02-intermediate\02-classes\Classes\bin\Debug\netcoreapp3.1\Classes.dll
+C:\CareerDevs\github\c++\mosh-02-intermediate\02-classes\Classes\bin\Debug\netcoreapp3.1\Classes.pdb
+C:\CareerDevs\github\c++\mosh-02-intermediate\02-classes\Classes\obj\Debug\netcoreapp3.1\Classes.csprojAssemblyReference.cache
+C:\CareerDevs\github\c++\mosh-02-intermediate\02-classes\Classes\obj\Debug\netcoreapp3.1\Classes.AssemblyInfoInputs.cache
+C:\CareerDevs\github\c++\mosh-02-intermediate\02-classes\Classes\obj\Debug\netcoreapp3.1\Classes.AssemblyInfo.cs
+C:\CareerDevs\github\c++\mosh-02-intermediate\02-classes\Classes\obj\Debug\netcoreapp3.1\Classes.dll
+C:\CareerDevs\github\c++\mosh-02-intermediate\02-classes\Classes\obj\Debug\netcoreapp3.1\Classes.pdb
