@@ -1,0 +1,11 @@
+C:\CareerDevs\github\c++\mosh-02-intermediate\02-classes\Constructors\bin\Debug\netcoreapp3.1\Constructors.exe
+C:\CareerDevs\github\c++\mosh-02-intermediate\02-classes\Constructors\bin\Debug\netcoreapp3.1\Constructors.deps.json
+C:\CareerDevs\github\c++\mosh-02-intermediate\02-classes\Constructors\bin\Debug\netcoreapp3.1\Constructors.runtimeconfig.json
+C:\CareerDevs\github\c++\mosh-02-intermediate\02-classes\Constructors\bin\Debug\netcoreapp3.1\Constructors.runtimeconfig.dev.json
+C:\CareerDevs\github\c++\mosh-02-intermediate\02-classes\Constructors\bin\Debug\netcoreapp3.1\Constructors.dll
+C:\CareerDevs\github\c++\mosh-02-intermediate\02-classes\Constructors\bin\Debug\netcoreapp3.1\Constructors.pdb
+C:\CareerDevs\github\c++\mosh-02-intermediate\02-classes\Constructors\obj\Debug\netcoreapp3.1\Constructors.csprojAssemblyReference.cache
+C:\CareerDevs\github\c++\mosh-02-intermediate\02-classes\Constructors\obj\Debug\netcoreapp3.1\Constructors.AssemblyInfoInputs.cache
+C:\CareerDevs\github\c++\mosh-02-intermediate\02-classes\Constructors\obj\Debug\netcoreapp3.1\Constructors.AssemblyInfo.cs
+C:\CareerDevs\github\c++\mosh-02-intermediate\02-classes\Constructors\obj\Debug\netcoreapp3.1\Constructors.dll
+C:\CareerDevs\github\c++\mosh-02-intermediate\02-classes\Constructors\obj\Debug\netcoreapp3.1\Constructors.pdb
