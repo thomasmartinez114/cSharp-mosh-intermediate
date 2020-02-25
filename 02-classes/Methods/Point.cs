@@ -19,8 +19,11 @@
 
         public void Move(Point newLocation)
         {
-            this.X = newLocation.X;
-            this.Y = newLocation.Y;
+            // validate so it'll never be null and crashing
+            if (newLocation == null)
+                throw new ArgumentNullException("newLocation");
+
+            Move(newLocation.X, newLocation.Y);
         }
     }
 }
