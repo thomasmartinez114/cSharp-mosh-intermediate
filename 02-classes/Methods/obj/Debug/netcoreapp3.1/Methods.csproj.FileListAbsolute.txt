@@ -1,0 +1,11 @@
+C:\CareerDevs\github\c++\mosh-02-intermediate\02-classes\Methods\bin\Debug\netcoreapp3.1\Methods.exe
+C:\CareerDevs\github\c++\mosh-02-intermediate\02-classes\Methods\bin\Debug\netcoreapp3.1\Methods.deps.json
+C:\CareerDevs\github\c++\mosh-02-intermediate\02-classes\Methods\bin\Debug\netcoreapp3.1\Methods.runtimeconfig.json
+C:\CareerDevs\github\c++\mosh-02-intermediate\02-classes\Methods\bin\Debug\netcoreapp3.1\Methods.runtimeconfig.dev.json
+C:\CareerDevs\github\c++\mosh-02-intermediate\02-classes\Methods\bin\Debug\netcoreapp3.1\Methods.dll
+C:\CareerDevs\github\c++\mosh-02-intermediate\02-classes\Methods\bin\Debug\netcoreapp3.1\Methods.pdb
+C:\CareerDevs\github\c++\mosh-02-intermediate\02-classes\Methods\obj\Debug\netcoreapp3.1\Methods.csprojAssemblyReference.cache
+C:\CareerDevs\github\c++\mosh-02-intermediate\02-classes\Methods\obj\Debug\netcoreapp3.1\Methods.AssemblyInfoInputs.cache
+C:\CareerDevs\github\c++\mosh-02-intermediate\02-classes\Methods\obj\Debug\netcoreapp3.1\Methods.AssemblyInfo.cs
+C:\CareerDevs\github\c++\mosh-02-intermediate\02-classes\Methods\obj\Debug\netcoreapp3.1\Methods.dll
+C:\CareerDevs\github\c++\mosh-02-intermediate\02-classes\Methods\obj\Debug\netcoreapp3.1\Methods.pdb
