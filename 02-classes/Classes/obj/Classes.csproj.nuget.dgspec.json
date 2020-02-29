@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\CareerDevs\\github\\c++\\mosh-02-intermediate\\02-classes\\Classes\\Classes.csproj": {}
+    "C:\\CareerDevs\\github\\cSharp\\mosh-02-intermediate\\02-classes\\Classes\\Classes.csproj": {}
   },
   "projects": {
-    "C:\\CareerDevs\\github\\c++\\mosh-02-intermediate\\02-classes\\Classes\\Classes.csproj": {
+    "C:\\CareerDevs\\github\\cSharp\\mosh-02-intermediate\\02-classes\\Classes\\Classes.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\CareerDevs\\github\\c++\\mosh-02-intermediate\\02-classes\\Classes\\Classes.csproj",
+        "projectUniqueName": "C:\\CareerDevs\\github\\cSharp\\mosh-02-intermediate\\02-classes\\Classes\\Classes.csproj",
         "projectName": "Classes",
-        "projectPath": "C:\\CareerDevs\\github\\c++\\mosh-02-intermediate\\02-classes\\Classes\\Classes.csproj",
+        "projectPath": "C:\\CareerDevs\\github\\cSharp\\mosh-02-intermediate\\02-classes\\Classes\\Classes.csproj",
         "packagesPath": "C:\\Users\\tmartinez\\.nuget\\packages\\",
-        "outputPath": "C:\\CareerDevs\\github\\c++\\mosh-02-intermediate\\02-classes\\Classes\\obj\\",
+        "outputPath": "C:\\CareerDevs\\github\\cSharp\\mosh-02-intermediate\\02-classes\\Classes\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\tmartinez\\AppData\\Roaming\\NuGet\\NuGet.Config",
