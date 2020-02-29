@@ -1,0 +1,11 @@
+C:\CareerDevs\github\cSharp\mosh-02-intermediate\02-classes\Properties\bin\Debug\netcoreapp3.1\Properties.exe
+C:\CareerDevs\github\cSharp\mosh-02-intermediate\02-classes\Properties\bin\Debug\netcoreapp3.1\Properties.deps.json
+C:\CareerDevs\github\cSharp\mosh-02-intermediate\02-classes\Properties\bin\Debug\netcoreapp3.1\Properties.runtimeconfig.json
+C:\CareerDevs\github\cSharp\mosh-02-intermediate\02-classes\Properties\bin\Debug\netcoreapp3.1\Properties.runtimeconfig.dev.json
+C:\CareerDevs\github\cSharp\mosh-02-intermediate\02-classes\Properties\bin\Debug\netcoreapp3.1\Properties.dll
+C:\CareerDevs\github\cSharp\mosh-02-intermediate\02-classes\Properties\bin\Debug\netcoreapp3.1\Properties.pdb
+C:\CareerDevs\github\cSharp\mosh-02-intermediate\02-classes\Properties\obj\Debug\netcoreapp3.1\Properties.csprojAssemblyReference.cache
+C:\CareerDevs\github\cSharp\mosh-02-intermediate\02-classes\Properties\obj\Debug\netcoreapp3.1\Properties.AssemblyInfoInputs.cache
+C:\CareerDevs\github\cSharp\mosh-02-intermediate\02-classes\Properties\obj\Debug\netcoreapp3.1\Properties.AssemblyInfo.cs
+C:\CareerDevs\github\cSharp\mosh-02-intermediate\02-classes\Properties\obj\Debug\netcoreapp3.1\Properties.dll
+C:\CareerDevs\github\cSharp\mosh-02-intermediate\02-classes\Properties\obj\Debug\netcoreapp3.1\Properties.pdb
