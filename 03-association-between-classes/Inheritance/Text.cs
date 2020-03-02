@@ -1,3 +1,5 @@
+using System;
+
 public class Text : PresentationObject
 {
     public int FontSize { get; set; }
