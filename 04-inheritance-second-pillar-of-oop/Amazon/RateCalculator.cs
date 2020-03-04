@@ -1,9 +1,14 @@
-﻿namespace Amazon
+﻿using System;
+using System.Collections.Generic;
+using System.Text;
+
+namespace Amazon
 {
-    public class RateCalculator
+    class RateCalculator
     {
-        public int Calculate(Customer customer)
+        internal int Calculate()
         {
             return 0;
         }
     }
+}
