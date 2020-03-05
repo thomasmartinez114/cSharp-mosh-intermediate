@@ -6,10 +6,10 @@ namespace Constructors
     {
         private readonly string _registrationNumber;
 
-        public Vehicle()
-        {
-            Console.WriteLine("Vehicle is being initiliazed.");
-        }
+        //public Vehicle()
+        //{
+        //    Console.WriteLine("Vehicle is being initiliazed.");
+        //}
 
         public Vehicle(string registrationNumber)
         {
