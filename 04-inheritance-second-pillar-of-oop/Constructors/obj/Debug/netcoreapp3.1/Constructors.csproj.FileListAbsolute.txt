@@ -1,0 +1,11 @@
+C:\CareerDevs\github\cSharp\mosh-02-intermediate\04-inheritance-second-pillar-of-oop\Constructors\bin\Debug\netcoreapp3.1\Constructors.exe
+C:\CareerDevs\github\cSharp\mosh-02-intermediate\04-inheritance-second-pillar-of-oop\Constructors\bin\Debug\netcoreapp3.1\Constructors.deps.json
+C:\CareerDevs\github\cSharp\mosh-02-intermediate\04-inheritance-second-pillar-of-oop\Constructors\bin\Debug\netcoreapp3.1\Constructors.runtimeconfig.json
+C:\CareerDevs\github\cSharp\mosh-02-intermediate\04-inheritance-second-pillar-of-oop\Constructors\bin\Debug\netcoreapp3.1\Constructors.runtimeconfig.dev.json
+C:\CareerDevs\github\cSharp\mosh-02-intermediate\04-inheritance-second-pillar-of-oop\Constructors\bin\Debug\netcoreapp3.1\Constructors.dll
+C:\CareerDevs\github\cSharp\mosh-02-intermediate\04-inheritance-second-pillar-of-oop\Constructors\bin\Debug\netcoreapp3.1\Constructors.pdb
+C:\CareerDevs\github\cSharp\mosh-02-intermediate\04-inheritance-second-pillar-of-oop\Constructors\obj\Debug\netcoreapp3.1\Constructors.csprojAssemblyReference.cache
+C:\CareerDevs\github\cSharp\mosh-02-intermediate\04-inheritance-second-pillar-of-oop\Constructors\obj\Debug\netcoreapp3.1\Constructors.AssemblyInfoInputs.cache
+C:\CareerDevs\github\cSharp\mosh-02-intermediate\04-inheritance-second-pillar-of-oop\Constructors\obj\Debug\netcoreapp3.1\Constructors.AssemblyInfo.cs
+C:\CareerDevs\github\cSharp\mosh-02-intermediate\04-inheritance-second-pillar-of-oop\Constructors\obj\Debug\netcoreapp3.1\Constructors.dll
+C:\CareerDevs\github\cSharp\mosh-02-intermediate\04-inheritance-second-pillar-of-oop\Constructors\obj\Debug\netcoreapp3.1\Constructors.pdb
