@@ -1,0 +1,11 @@
+C:\CareerDevs\github\cSharp\mosh-02-intermediate\04-inheritance-second-pillar-of-oop\Casting\bin\Debug\netcoreapp3.1\Casting.exe
+C:\CareerDevs\github\cSharp\mosh-02-intermediate\04-inheritance-second-pillar-of-oop\Casting\bin\Debug\netcoreapp3.1\Casting.deps.json
+C:\CareerDevs\github\cSharp\mosh-02-intermediate\04-inheritance-second-pillar-of-oop\Casting\bin\Debug\netcoreapp3.1\Casting.runtimeconfig.json
+C:\CareerDevs\github\cSharp\mosh-02-intermediate\04-inheritance-second-pillar-of-oop\Casting\bin\Debug\netcoreapp3.1\Casting.runtimeconfig.dev.json
+C:\CareerDevs\github\cSharp\mosh-02-intermediate\04-inheritance-second-pillar-of-oop\Casting\bin\Debug\netcoreapp3.1\Casting.dll
+C:\CareerDevs\github\cSharp\mosh-02-intermediate\04-inheritance-second-pillar-of-oop\Casting\bin\Debug\netcoreapp3.1\Casting.pdb
+C:\CareerDevs\github\cSharp\mosh-02-intermediate\04-inheritance-second-pillar-of-oop\Casting\obj\Debug\netcoreapp3.1\Casting.csprojAssemblyReference.cache
+C:\CareerDevs\github\cSharp\mosh-02-intermediate\04-inheritance-second-pillar-of-oop\Casting\obj\Debug\netcoreapp3.1\Casting.AssemblyInfoInputs.cache
+C:\CareerDevs\github\cSharp\mosh-02-intermediate\04-inheritance-second-pillar-of-oop\Casting\obj\Debug\netcoreapp3.1\Casting.AssemblyInfo.cs
+C:\CareerDevs\github\cSharp\mosh-02-intermediate\04-inheritance-second-pillar-of-oop\Casting\obj\Debug\netcoreapp3.1\Casting.dll
+C:\CareerDevs\github\cSharp\mosh-02-intermediate\04-inheritance-second-pillar-of-oop\Casting\obj\Debug\netcoreapp3.1\Casting.pdb

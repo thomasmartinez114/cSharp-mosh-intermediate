@@ -1,4 +1,5 @@
 ﻿using System;
+using System.IO;
 
 namespace Casting
 {
@@ -7,8 +8,7 @@ namespace Casting
     {
         static void Main(string[] args)
         {
-            Text text = new Text();
-
+            StreamReader reader = new StreamReader(new MemoryStream());
         }
     }
 }
