@@ -1,4 +1,6 @@
 ﻿using System;
+using System.Collections;
+using System.Collections.Generic;
 
 namespace Boxing
 {
@@ -11,7 +13,8 @@ namespace Boxing
             list.Add("Mosh");
             list.Add(DateTime.Today);
 
-            var number = (int) list[1]
+            var anotherList = new List<int>();
+            anotherList.Add();
         }
     }
 }
