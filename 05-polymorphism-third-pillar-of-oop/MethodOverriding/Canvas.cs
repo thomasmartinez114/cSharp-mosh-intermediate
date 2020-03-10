@@ -13,15 +13,15 @@ namespace MethodOverriding
                 switch (shape.Type)
                 {
                     case ShapeType.Circle:
-                        Console.WriteLine("Now draw a circle.");
+                        Console.WriteLine("Now draw a circle");
                         break;
 
                     case ShapeType.Rectangle:
-                        Console.WriteLine("Now draw a rectangle.");
+                        Console.WriteLine("Now draw a rectangle");
                         break;
 
                     case ShapeType.Triangle:
-                        Console.WriteLine("Now draw a triangle.");
+                        Console.WriteLine("Now draw a triangle");
                         break;
                 }
             }
