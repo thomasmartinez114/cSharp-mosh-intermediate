@@ -10,13 +10,15 @@ namespace MethodOverriding
         {
             // Any code specific to the cirlce itself
             Console.WriteLine("Now draw a circle");
-
         }
     }
 
     public class Rectangle : Shape
     {
-
+        public override void Draw()
+        {
+            Console.WriteLine("Now draw a rectangle");
+        }
     }
 
     public class Shape

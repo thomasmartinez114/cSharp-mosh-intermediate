@@ -10,19 +10,7 @@ namespace MethodOverriding
         {
             foreach (var shape in shapes)
             {
-                switch (shape.Type)
-                {
-                    case ShapeType.Circle:
-                        break;
-
-                    case ShapeType.Rectangle:
-                        Console.WriteLine("Now draw a rectangle");
-                        break;
-
-                    case ShapeType.Triangle:
-                        Console.WriteLine("Now draw a triangle");
-                        break;
-                }
+                shape.Draw();
             }
         }
     }
